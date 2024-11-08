@@ -1,0 +1,6 @@
+[submodule "hsns_master_lib"]
+	path = hsns_master_lib
+	url = git@gitlab.mm:rad/embedded/software/hsns_master_lib.git
+[submodule "usb-pd-rs"]
+	path = usb-pd-rs
+	url = git@github.com:okhsunrog/usb-pd-rs.git

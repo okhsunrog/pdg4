@@ -1,0 +1,7 @@
+{
+    // The "target" line is optional, can be skipped if you have this in the .cargo/config.toml file:
+    // [build]
+    // target = "thumbv6m-none-eabi"
+    // "rust-analyzer.cargo.target": "thumbv6m-none-eabi",
+    "rust-analyzer.cargo.allTargets": false
+}
